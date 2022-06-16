@@ -1,1 +1,1 @@
-this is a second pointer, array and strings assignment
+0x06-pointers_arrays_strings
